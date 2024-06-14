@@ -1,0 +1,13 @@
+<svg width="147.000000" height="100.000000" viewBox="0 0 147 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="Rectangle" width="100.000000" height="100.000000" transform="matrix(1 0 0 -1 0 100)" fill="#002529" fill-opacity="1.000000"/>
+	<rect id="Rectangle" width="100.000000" height="100.000000" transform="matrix(1 0 0 -1 0 100)" stroke="#979797" stroke-opacity="0" stroke-width="0.000000"/>
+	<mask id="mask_0_4390" fill="white">
+		<path id="Combined Shape" d="M47 56L147 56L147 60L47 60L47 56ZM47 64L147 64L147 68L47 68L47 64ZM147 72L47 72L47 76L147 76L147 72ZM47 80L147 80L147 84L47 84L47 80ZM147 88L47 88L47 92L147 92L147 88ZM47 96L147 96L147 100L47 100L47 96Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="Combined Shape" d="M47 56L147 56L147 60L47 60L47 56ZM47 64L147 64L147 68L47 68L47 64ZM147 72L47 72L47 76L147 76L147 72ZM47 80L147 80L147 84L47 84L47 80ZM147 88L47 88L47 92L147 92L147 88ZM47 96L147 96L147 100L47 100L47 96Z" clip-rule="evenodd" fill="#79C8C7" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_0_4390)"/>
+	<path id="Combined Shape" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+</svg>

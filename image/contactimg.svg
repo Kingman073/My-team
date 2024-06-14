@@ -1,0 +1,18 @@
+<svg width="200.000000" height="225.000000" viewBox="0 0 200 225" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<mask id="mask_0_3566" fill="white">
+		<path id="Combined Shape" d="M0 100C0 155.228 44.7715 200 100 200C155.229 200 200 155.228 200 100C200 44.7715 155.229 0 100 0C44.7715 0 0 44.7715 0 100ZM67 100C67 118.225 81.7744 133 100 133C118.226 133 133 118.225 133 100C133 81.7747 118.226 67 100 67C81.7744 67 67 81.7747 67 100Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="Combined Shape" d="M0 100C0 155.228 44.7715 200 100 200C155.229 200 200 155.228 200 100C200 44.7715 155.229 0 100 0C44.7715 0 0 44.7715 0 100ZM67 100C67 118.225 81.7744 133 100 133C118.226 133 133 118.225 133 100C133 81.7747 118.226 67 100 67C81.7744 67 67 81.7747 67 100Z" clip-rule="evenodd" fill="#012F34" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_0_3566)"/>
+	<path id="Combined Shape" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+	<rect id="Rectangle" x="43.000000" width="43.000000" height="43.000000" transform="rotate(90 43.000000 0.000000)" fill="#79C8C7" fill-opacity="1.000000"/>
+	<rect id="Rectangle" x="43.000000" width="43.000000" height="43.000000" transform="rotate(90 43.000000 0.000000)" stroke="#979797" stroke-opacity="0" stroke-width="0.000000"/>
+	<mask id="mask_0_3570" fill="white">
+		<path id="Combined Shape Copy" d="M0 124.487C0 179.715 44.7715 224.487 100 224.487C155.229 224.487 200 179.715 200 124.487C200 69.2581 155.229 24.4866 100 24.4866C44.7715 24.4866 0 69.2581 0 124.487ZM67 124.487C67 142.712 81.7744 157.487 100 157.487C118.226 157.487 133 142.712 133 124.487C133 106.261 118.226 91.4865 100 91.4865C81.7744 91.4865 67 106.261 67 124.487Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="Combined Shape Copy" d="M0 124.487C0 179.715 44.7715 224.487 100 224.487C155.229 224.487 200 179.715 200 124.487C200 69.2581 155.229 24.4866 100 24.4866C44.7715 24.4866 0 69.2581 0 124.487ZM67 124.487C67 142.712 81.7744 157.487 100 157.487C118.226 157.487 133 142.712 133 124.487C133 106.261 118.226 91.4865 100 91.4865C81.7744 91.4865 67 106.261 67 124.487Z" clip-rule="evenodd" fill="#F67E7E" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_0_3570)"/>
+	<path id="Combined Shape Copy" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+</svg>
